@@ -3,7 +3,13 @@ I keep writing code examples to show people stuff, and I felt like it was time t
 
 **Mostly Done:**
 - async scraping
+- kmer analysis and tokenization (Paper/talk coming soon)
 
 **Not at all done, needs comments:**
 - grid search
-- kmer analysis and tokenization
+- Hidden Markov Models with Pomegranate
+    - See my talk about HMMs here, with a short walkthrough of the code: https://vimeo.com/409282673
+
+**Not even cleaned up yet, but functional**
+- NetworkX, building a network and pagerank
+- BlackJack
